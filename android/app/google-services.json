@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562100578980",
+    "project_id": "firebase-authtutorial"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562100578980:android:2cd379f34b6ed25c",
+        "android_client_info": {
+          "package_name": "com.googleauthtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562100578980-0agtr6a9i9unla02f7g7svt4r3c16ekn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googleauthtutorial",
+            "certificate_hash": "1168c7be14c30114236be5e944a0e031834fc51d"
+          }
+        },
+        {
+          "client_id": "562100578980-lknbdpo5egl4jigoluhfjm3c34feujql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnKwty0HTDuWaJ7WW_SHwpclCXT-ubERU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
